@@ -1,0 +1,20 @@
+[
+    {
+        "email": "mariajoana@qa.com",
+        "fullName": "maria joana",
+        "userName": "maria",
+        "password": "joana"
+    },
+    {
+        "email": "carlos@qa.com",
+        "fullName": "carlos xé",
+        "userName": "carlos",
+        "password": "carlinhos"
+    },
+    {
+        "email": "wallace@qa.com",
+        "fullName": "josé wallace",
+        "userName": "wallace",
+        "password": "seuwall"
+    }
+]
